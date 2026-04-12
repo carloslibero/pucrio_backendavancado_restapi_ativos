@@ -1,0 +1,42 @@
+[2026-04-12 07:59:27,475] INFO _log() L97   [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.3.9:8000 - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 07:59:27,475] INFO _log() L97   [33mPress CTRL+C to quit[0m - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 07:59:29,778] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 07:59:29] "[32mGET / HTTP/1.1[0m" 302 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 07:59:29,787] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 07:59:29] "[32mGET /openapi HTTP/1.1[0m" 308 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 07:59:30,028] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 07:59:30] "GET /openapi/ HTTP/1.1" 200 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 07:59:39,318] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 07:59:39] "[32mGET / HTTP/1.1[0m" 302 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 07:59:39,328] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 07:59:39] "GET /openapi/ HTTP/1.1" 200 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 07:59:43,777] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 07:59:43] "[32mGET / HTTP/1.1[0m" 302 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 07:59:44,097] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 07:59:44] "GET /openapi/ HTTP/1.1" 200 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 08:00:37,771] INFO _log() L97   [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.3.9:8000 - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 08:00:37,772] INFO _log() L97   [33mPress CTRL+C to quit[0m - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 08:00:37,777] INFO _log() L97    * Restarting with stat - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 08:00:45,044] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 08:00:45] "GET /openapi/ HTTP/1.1" 200 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 08:00:45,123] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 08:00:45] "GET /openapi/swagger/images/swagger.svg HTTP/1.1" 200 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 08:00:46,498] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 08:00:46] "GET /openapi/swagger HTTP/1.1" 200 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 08:00:46,810] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 08:00:46] "GET /openapi/swagger/css/swagger-ui.css HTTP/1.1" 200 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 08:00:46,824] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 08:00:46] "GET /openapi/swagger/js/swagger-ui-standalone-preset.js HTTP/1.1" 200 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 08:00:46,829] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 08:00:46] "GET /openapi/swagger/js/swagger-ui-bundle.js HTTP/1.1" 200 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 08:00:47,287] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 08:00:47] "GET /openapi/openapi.json HTTP/1.1" 200 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 08:00:47,294] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 08:00:47] "[36mGET /openapi/swagger/images/swagger.svg HTTP/1.1[0m" 304 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 08:01:21,442] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 08:01:21] "POST /ativo HTTP/1.1" 200 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 08:01:42,175] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 08:01:42] "POST /ativo HTTP/1.1" 200 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 08:01:52,770] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 08:01:52] "GET /ativos HTTP/1.1" 200 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 08:06:28,089] INFO _log() L97    * Detected change in 'C:\\MVP3_CL-BackEnd\\restapi_mvp3_ativos\\app.py', reloading - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 08:06:28,196] INFO _log() L97    * Restarting with stat - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 08:08:06,686] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 08:08:06] "[32mGET / HTTP/1.1[0m" 302 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 08:08:06,954] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 08:08:06] "GET /openapi/ HTTP/1.1" 200 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 08:08:16,419] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 08:08:16] "[32mGET / HTTP/1.1[0m" 302 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 08:08:16,736] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 08:08:16] "GET /openapi/ HTTP/1.1" 200 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 08:08:16,806] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 08:08:16] "[36mGET /openapi/swagger/images/swagger.svg HTTP/1.1[0m" 304 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 08:08:18,122] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 08:08:18] "GET /openapi/swagger HTTP/1.1" 200 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 08:08:18,422] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 08:08:18] "[36mGET /openapi/swagger/css/swagger-ui.css HTTP/1.1[0m" 304 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 08:08:18,453] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 08:08:18] "[36mGET /openapi/swagger/js/swagger-ui-bundle.js HTTP/1.1[0m" 304 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 08:08:18,453] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 08:08:18] "[36mGET /openapi/swagger/js/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 08:08:18,902] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 08:08:18] "GET /openapi/openapi.json HTTP/1.1" 200 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2026-04-12 08:08:27,769] INFO _log() L97   127.0.0.1 - - [12/Apr/2026 08:08:27] "GET /ativos HTTP/1.1" 200 - - call_trace=c:\MVP3_CL-BackEnd\restapi_mvp3_ativos\.venv\Lib\site-packages\werkzeug\_internal.py L97  
