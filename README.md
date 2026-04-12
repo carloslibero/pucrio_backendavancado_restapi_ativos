@@ -8,10 +8,10 @@ Também será funcionalidade da API recuperar essa informação para uso em um F
 
 Foi utilizado o formato de API Rest, com as seguintes rotas:
 
-DELETE Ativo - Remove um ativo a partir do código informado
-GET Ativo - Busca por um ativo conforme o código informado
-POST Ativo - Adiciona um novo ativo à base de dados
-GET Ativos - Retorna todos os ativos existentes na base
+* DELETE Ativo - Remove um ativo a partir do código informado
+* GET Ativo - Busca por um ativo conforme o código informado
+* POST Ativo - Adiciona um novo ativo à base de dados
+* GET Ativos - Retorna todos os ativos existentes na base
 
 
 ## Como executar
