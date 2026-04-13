@@ -3,6 +3,10 @@
 ## MVP da Pós em Full Stack da PucRio - Parte 3 - Desenvolvimento Back End Avançado 
 
 O objetivo aqui é atender aos requisitos do MVP através de um aplicativo para controlar os ativos financeiros de um usuário.
+
+![Cenário 1](cenario1.png)
+
+
 O ativo será informado no formato da B3, com o código, descrição, quantidade e preço médio e a API do BackEnd ficará responsável por no Banco de Dados.
 Também será funcionalidade da API recuperar essa informação para uso em um FrontEnd.
 
